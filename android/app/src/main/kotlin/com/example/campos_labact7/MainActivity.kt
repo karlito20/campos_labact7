@@ -1,4 +1,4 @@
-package com.example.campos_navigation_app
+package com.example.campos_labact7
 
 import io.flutter.embedding.android.FlutterActivity
 
